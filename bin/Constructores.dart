@@ -3,7 +3,7 @@ void main() {
 
   Heroe ironman = Heroe.fromJson(rawJson);
 
-  Heroe wolverine = new Heroe(nombre: 'Logan', poder: 'Regeneracion');
+ // Heroe wolverine = new Heroe(nombre: 'Logan', poder: 'Regeneracion');
 
   print(ironman);
 }
